@@ -1,0 +1,19 @@
+# build / analysis artifacts
+*.class
+*.apk
+*.dex
+*.xz
+*.png
+dump_out*/
+dedup_out/
+cldex/
+staged_dex/
+dec/
+libs/
+node_modules/
+package.json
+package-lock.json
+agent*bundled.js
+*.log
+*.bak
+frida-server*
