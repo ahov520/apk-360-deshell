@@ -17,3 +17,6 @@ agent*bundled.js
 *.log
 *.bak
 frida-server*
+
+__pycache__/
+*.pyc
